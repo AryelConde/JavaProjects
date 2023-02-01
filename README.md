@@ -1,2 +1,2 @@
-# JavaProjects
-Java projects that I have learned throughout my studies
+# Coding
+School projects that I have learned throughout my studies
